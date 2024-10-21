@@ -5,7 +5,7 @@ These plotting functions `DrawSpacecraft.m` and `DrawARM.m` have been provided t
 # Examples
 
 Three example files have been provided that use the plotting functions to plot experiment data. Example files have additionally been provided that use the plotting functions to animate experiment data.
-- Example #1: Plots an experiment using the chaser, targer, and obstacle
+- Example #1: Plots an experiment using the chaser, target, and obstacle
 - Example #2: Plots an experiment using the chaser, manipulator, and target
 - Example #3: Plots multiple experiment trials against simulation data
 
